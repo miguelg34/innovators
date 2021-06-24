@@ -1,8 +1,9 @@
 $(function(){
 	var images=[
-		"img/martin1.jpg",
-		"img/martin2.jpg",
-		"img/martin3.jpg"
+		"img/miguel1.gif",
+		"img/miguel2.gif",
+		"img/miguel3.gif",
+		"img/miguel4.gif"
 	];
 	var galleryImage=$("img");
 	var i=0;
